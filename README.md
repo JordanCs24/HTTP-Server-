@@ -10,7 +10,7 @@ Resume impact: "Built a multi-threaded HTTP server in C++" impresses more than P
 
 This helps me build for other projects such as - You'll gain skills for game engines, databases, etc.
 
-What I'll Specifically Learn in C++:
+What I am Specifically Learn in C++:
 Socket programming with sys/socket.h (POSIX sockets)
 
 Memory management (avoiding leaks, smart pointers)
